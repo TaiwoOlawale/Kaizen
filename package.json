@@ -1,0 +1,19 @@
+{
+  "name": "kaizen",
+  "version": "1.0.0",
+  "description": "getting better",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaiwoOlawale/Kaizen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaiwoOlawale/Kaizen/issues"
+  },
+  "homepage": "https://github.com/TaiwoOlawale/Kaizen#readme"
+}
